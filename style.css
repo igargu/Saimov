@@ -1,0 +1,110 @@
+body {
+  background-color: #cccccc;
+}
+
+header {
+  font-family: "Lucida Console", Monaco, monospace;
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: inline-block;
+  text-align: center;
+  padding: 16px 14px;
+  color: white;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #4d4d4d;
+}
+
+ul {
+  text-align: center;
+  overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+main {
+  font-size: 19px;
+  padding: 28px;
+}
+
+figure {
+  padding: 7px;
+  background-color: grey;
+  float: right;
+}
+
+.galeria1 {
+  position: absolute;
+}
+
+.galeria2 {
+  position: absolute;
+}
+
+.galeria3 {
+  position: absolute;
+}
+
+.galeria4 {
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+aside {
+  position: right;
+  margin-left: 50px;
+  float: right;
+  background-color: #8c8c8c;
+  padding: 25px;
+  height: 1349px;
+  font-size: 15px;
+}
+
+footer {
+  font-size: 15px;
+  padding: 25px;
+  color: white;
+  position: footer;
+  background-color: black;
+}
+
+#columna1 {
+  text-align: center;
+  float: left;
+  width: 200px;
+  margin: 0;
+  padding: 1em;
+}
+
+#columna2 {
+  font-size: 15px;
+  text-align: center;
+  margin-left: 210px;
+  margin-right: 230px;
+  padding: 1em;
+}
+
+#columna3 {
+  font-size: 15px;
+  text-align: center;
+  float: right;
+  width: 200px;
+  margin: 0;
+  padding: 1em;
+}
